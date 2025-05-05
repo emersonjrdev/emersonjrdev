@@ -1,9 +1,5 @@
 # 🚀 Emerson Junior | Full Stack Mobile Developer 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D1FF&center=true&vCenter=true&width=500&lines=📱+React+Native+Specialist;☁️+Cloud+Developer+(AWS%2FGCP);💻+Full+Stack+Engineer;🔒+Security+Enthusiast" alt="Typing animation" />
-</div>
-
 📍 São Paulo, Brazil | 🔗 [LinkedIn](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/) | 📧 [Email](mailto:contato.juniormorales@gmail.com) | 💻 [Portfolio](https://yourportfolio.com)     
 
 <div align="center">
