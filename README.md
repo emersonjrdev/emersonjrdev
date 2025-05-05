@@ -39,10 +39,6 @@
 🔹 **Tech**: React Native, Node.js
 🔹 **Features**: Cross-platform app, real-time notifications  
 
-### [ConnectWork](https://github.com/emersonjrdev/connectwork)
-🚀 A professional networking platform connecting students, companies, and job opportunities  
-🔹 **Tech**: React, Node.JS, MySQL
-🔹 **Features**: User profiles, job postings  
 ---
 
 ## 📊 GitHub Stats
