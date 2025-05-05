@@ -1,9 +1,15 @@
-# 👋 Hello, I'm Emerson Junior 
+# 🚀 Emerson Junior | Full Stack Mobile Developer 
 
-### Cloud Developer | Java Full Stack | Cybersecurity Enthusiast
-📍 São Paulo, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/) | ✉ [Email](mailto:contato.juniormorales@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=📱+Mobile+Developer+%7C+React+Native;☁️+Cloud+Enthusiast+%7C+AWS%2FGCP;🔒+Cybersecurity+Learner;🚀+Building+Scalable+Mobile+Apps" alt="Typing animation" />
+</div>
 
+📍 São Paulo, Brazil | 🔗 [LinkedIn](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/)  
+📧 [Email](mailto:contato.juniormorales@gmail.com) | 💻 [Portfolio](https://yourportfolio.com)  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emersonjrdev&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 ---
 
 ## 🛠️ Tech Stack
