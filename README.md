@@ -2,7 +2,7 @@
 
 ### Cloud Developer | Java Full Stack | Cybersecurity Enthusiast
 📍 São Paulo, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/) | ✉ [Email](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/) | ✉ [Email](mailto:contato.juniormorales@gmail.com)
 
 ---
 
@@ -36,14 +36,8 @@
 
 ### [ConnectWork](https://github.com/emersonjrdev/connectwork)
 🚀 A professional networking platform connecting students, companies, and job opportunities  
-🔹 **Tech**: Java, Spring Boot, React, AWS  
-🔹 **Features**: User profiles, job postings, real-time chat  
-
-### [Cloud Security Dashboard](https://github.com/emersonjrdev/cloud-security-dashboard)
-🛡️ Monitoring tool for cloud infrastructure security  
-🔹 **Tech**: AWS, Python, Terraform  
-
----
+🔹 **Tech**: React, Node.JS, MySQL
+🔹 **Features**: User profiles, job postings  
 
 ## 📊 GitHub Stats
 
@@ -56,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-morales-junior-6469b8231/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/emersxn_jr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.juniormorales@gmail.com)
 
 ---
 
